@@ -24,6 +24,7 @@
   "homepage": "https://github.com/phamthainguyen0703/nodejs_blog#readme",
   "dependencies": {
     "express": "^4.18.3",
+    "method-override": "^3.0.0",
     "mongoose": "^7.6.3",
     "mongoose-slug-generator": "^1.0.4"
   },
